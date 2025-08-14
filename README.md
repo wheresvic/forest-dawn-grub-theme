@@ -11,7 +11,7 @@ Its dark, nature-inspired look and minimal layout make your boot menu both elega
 ---
 
 ## 📥 Installation
-1. **Step 1: Go inside the theme folder**
+1. **Step 1: Go inside the theme folder and Open terminal**
 2. **Step 2: Run the installer script**
    ```bash
    sudo ./install.sh
