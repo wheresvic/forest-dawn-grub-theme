@@ -4,7 +4,7 @@
 ---
 
 ## 📥 Installation
-# Clone the theme repo
+*** Clone the theme repo
 git clone https://github.com/hashirsajid58200p/forest-dawn-grub-theme.git
 
 # Go inside the theme folder
