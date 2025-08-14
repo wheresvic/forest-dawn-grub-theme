@@ -12,8 +12,6 @@ Its dark, nature-inspired look and minimal layout make your boot menu both elega
 
 ## 📥 Installation
 1. **Go inside the theme folder**
-   ```bash
-   cd forest-dawn
 2. **Step 2: Run the installer script**
    ```bash
    sudo ./install.sh
