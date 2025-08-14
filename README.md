@@ -1,6 +1,7 @@
 # 🌌 Forest Dawn — GRUB Theme
 
 ![Forest Dawn Preview](preview.jpg)
+
 ---
 
 ## 📥 Installation Instructions
@@ -20,3 +21,10 @@ sudo ./install.sh
 ```bash
 sudo update-grub
 ```
+
+---
+
+## 💖 Support & Follow
+If you like **Forest Dawn**, consider giving this repo a ⭐ on GitHub.  
+You can also follow me for more GRUB themes and Linux customizations:  
+[GitHub Profile](https://github.com/hashirsajid58200p)
