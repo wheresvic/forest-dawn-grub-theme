@@ -1,4 +1,4 @@
-# 🌌 Forest Dawn — GRUB Theme
+# 🌌 Forest Dawn
 
 ![Forest Dawn Preview](preview.jpg)
 
