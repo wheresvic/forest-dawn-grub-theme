@@ -4,10 +4,14 @@
 ---
 
 ## 📥 Installation
-1. **Step 1: Go inside the theme folder and Open terminal**
-2. **Step 2: Run the installer script**
-   ```bash
-   sudo ./install.sh
-3. **Step 3: Update GRUB so it picks up the new theme**
-   ```bash
-   sudo update-grub    
+# Clone the theme repo
+git clone https://github.com/hashirsajid58200p/forest-dawn-grub-theme.git
+
+# Go inside the theme folder
+cd forest-dawn-grub-theme
+
+# Run the installer script
+sudo ./install.sh
+
+# Update GRUB so it applies the theme
+sudo update-grub
