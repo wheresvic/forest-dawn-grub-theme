@@ -3,7 +3,7 @@
 ![Forest Dawn Preview](preview.jpg)
 ---
 
-## 📥 Installation
+## 📥 Installation Instructions
 **Step 1: Clone the theme repo**
 ```bash
 git clone https://github.com/hashirsajid58200p/forest-dawn-grub-theme.git
