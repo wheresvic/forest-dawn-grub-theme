@@ -17,6 +17,12 @@ cd forest-dawn-grub-theme
 ```bash
 sudo ./install.sh
 ```
+Select display resolution:
+1) Full HD (1920x1080)
+2) 2K (2560x1440)
+3) 4K (3840x2160)
+Enter choice [1-3]:
+ 
 **Step 4. Update GRUB so it applies the theme**
 ```bash
 sudo update-grub
